@@ -8,9 +8,15 @@
       **(2:24:35)**
     - [Curso de CSS desde CERO (Completo)](https://www.youtube.com/watch?v=OWKXEJN67FE&list=PLE8uP447fYpiWxfqCnoHZx03zCsUAzDUW&index=3)
       **(9:46:54)**
+
+---
+
 - Bootstrap
   - [Freecodecamp-sp](https://www.youtube.com/watch?v=QCw0L6FupQ0)
     **(5:04:12)**
+
+---
+
 - Javascript
   - [Freecodecamp-sp](https://www.youtube.com/watch?v=ivdTnPl1ND0)
     **(9:15:20)**
@@ -21,12 +27,21 @@
       **(7:56:52)**
     - [NIVEL MASTER](https://www.youtube.com/watch?v=EbMi1Qj4rVE&list=PLE8uP447fYpiBqMVF1hdWl9uFeVEeXRTm&index=3)
       **(9:23:18)**
+
+---
+
 - React
   - [Freecodecamp-sp](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=16136s)
     **(8:10:25)**
+
+---
+
 - Node
   - [Freecodecamp-sp](https://www.youtube.com/watch?v=1hpc70_OoAg)
     **(8:29:32)**
+
+---
+
 - Python
   - Freecodecamp-sp
     - [Python desde cero](https://www.youtube.com/watch?v=DLikpfc64cA)
@@ -44,20 +59,41 @@
       **(48:15)**
   - [Soydalto](https://www.youtube.com/watch?v=nKPbfIU442g)
     **(8:06:29)**
+
+---
+
 - BBDDs
-  - Jhonmircha
+  - Jonmircha
     - [Curso Diseño de BDs](https://www.youtube.com/watch?v=HXE169-n5pM)
       **(5:06:32)**
     - [Curso Modelado de BDs](https://www.youtube.com/watch?v=aFgHVE_Y_YU&t=2s)
       **(4:46:36)**
   - [Soydalto](https://www.youtube.com/watch?v=DFg1V-rO6Pg&t=5230s)
     **(7:21:26)**
+
+---
+
+- Markdown
+  - [Jonmircha](https://www.youtube.com/watch?v=FlsoBiteuPM)
+    **(57:29)**
+
+---
+
 - Git y Github
   - [Freecodecamp-sp](https://www.youtube.com/watch?v=mBYSUUnMt9M)
     **(5:32:54)**
   - [MoureDev](https://www.youtube.com/watch?v=3GymExBkKjE)
     **(5:05:21)**
+
+---
+
 - Linux
   - Efoxxfiles
     - [Curso de Linux #1 - Introducción](https://www.youtube.com/watch?v=x-EAz5ji0cc&list=PL_E2EXhZMivs3jIJQzrfNxZ5krHO0RV-S)
       **(2:03:10)**
+    - [Curso de Linux #2 - Estructura básica y permisos](https://www.youtube.com/watch?v=ntJ8poxXOco&list=PL_E2EXhZMivs3jIJQzrfNxZ5krHO0RV-S&index=2)
+      **(3:07:14)**
+    - [Curso de Linux #3 - Comandos Básicos - Entrada / Salida standar](https://www.youtube.com/watch?v=TlBH4vgETHw&list=PL_E2EXhZMivs3jIJQzrfNxZ5krHO0RV-S&index=3)
+      **(2:25:02)**
+
+---

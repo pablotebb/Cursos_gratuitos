@@ -33,6 +33,8 @@
 - React
   - [Freecodecamp-sp](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=16136s)
     **(8:10:25)**
+  - [Fazt](https://www.youtube.com/watch?v=rLoWMU4L_qE)
+    **(4:50:43)**
 
 ---
 

@@ -35,6 +35,9 @@
     **(8:10:25)**
   - [Fazt](https://www.youtube.com/watch?v=rLoWMU4L_qE)
     **(4:50:43)**
+  - Midulive
+    - [Curso de React [2023]: De cero hasta crear tus primeros componentes con estado](https://www.youtube.com/watch?v=7iobxzd_2wY&t=4228s)
+      **(2:24:22)**
 
 ---
 

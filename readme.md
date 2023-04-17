@@ -100,6 +100,10 @@
       **(3:07:14)**
     - [Curso de Linux #3 - Comandos Básicos - Entrada / Salida standar](https://www.youtube.com/watch?v=TlBH4vgETHw&list=PL_E2EXhZMivs3jIJQzrfNxZ5krHO0RV-S&index=3)
       **(2:25:02)**
+    - [Curso de Linux #4 - Gestión de archivos y procesos](https://www.youtube.com/watch?v=lQfH8L-qYro&list=PL_E2EXhZMivs3jIJQzrfNxZ5krHO0RV-S&index=5)
+      **(3:24:02)**
+    - [Curso de Linux #5 - Compresión y Empaquetamiento](https://www.youtube.com/watch?v=nOGfyfz3LL0&list=PL_E2EXhZMivs3jIJQzrfNxZ5krHO0RV-S&index=6)
+      **(2:24:52)**
 
 ---
 

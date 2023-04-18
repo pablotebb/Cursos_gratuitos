@@ -8,6 +8,9 @@
       **(2:24:35)**
     - [Curso de CSS desde CERO (Completo)](https://www.youtube.com/watch?v=OWKXEJN67FE&list=PLE8uP447fYpiWxfqCnoHZx03zCsUAzDUW&index=3)
       **(9:46:54)**
+  - Jonmircha
+    - [Curso HTML & CSS ( 1 / 5 ): Fundamentos HTML - jonmircha](https://www.youtube.com/watch?v=-oK6zL01fNM&t=21658s)
+      **(7:42:21)**
 
 ---
 
